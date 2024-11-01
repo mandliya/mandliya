@@ -1,5 +1,6 @@
+![Profile Views](https://komarev.com/ghpvc/?username=mandliya&color=blue&style=for-the-badge)
 
-# Hi there, I'm Ravi! 👋
+# Hi there, I'm Ravi! 👋 
 
 ## 🧑‍💻 About Me
 AI Enthusiast | Machine Learning Engineer | Open Source Contributor
@@ -10,6 +11,8 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 - 👯 I’m looking to collaborate on any ML research project (especially LLMs and RecSys)
 - 💬 Ask me about machine learning, deep learning, recommender systems and LLMs
 - 📫 How to reach me: email me at `ravi.mandliya@github.com`
+
+
 
 
 ## 🛠 Skills
@@ -25,14 +28,17 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 
 ## 📈 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mandliya&show_icons=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mandliya)
 
 ## 🚀 Projects
+
 - [ML streak](https://github.com/mandliya/ml) - Machine Learning Projects
 - [Blog](https://mandliya.com) - Sharing insights on ML, DL, RecSys, LLMs
 
 ## 🌱 Latest Blog Posts
+
 - [Primer on Large Language Model (LLM) Inference Optimizations : Background and Problem Formulation](https://mandliya.github.io/posts/LLM_inference_1/)
 - [More Blog Posts](https://mandliya.com)
 
