@@ -34,7 +34,10 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 ## 🚀 Projects
 
-- [ML streak](https://github.com/mandliya/ml) - Machine Learning Projects
+- [ML streak](https://github.com/mandliya/ml) - 70+ Machine Learning Projects
+- [Notes and code for Programming Massively Parallel Processors](https://github.com/mandliya/PMPP_notes)
+- [Algorithms and Data Structures](https://github.com/mandliya/algorithms_and_data_structures)
+- [Modern C++ Concepts](https://github.com/mandliya/modern-cpp-concepts)
 - [Blog](https://mandliya.com) - Sharing insights on ML, DL, RecSys, LLMs
 
 ## 🌱 Latest Blog Posts
