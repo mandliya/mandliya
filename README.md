@@ -42,7 +42,8 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 ## 🌱 Latest Blog Posts
 
-- [Primer on Large Language Model (LLM) Inference Optimizations : Background and Problem Formulation](https://mandliya.github.io/posts/LLM_inference_1/)
+- [Primer on Large Language Model (LLM) Inference Optimizations : 1. Background and Problem Formulation](https://mandliya.github.io/posts/LLM_inference_1/)
+- [Primer On Large Language Model (LLM) Inference Optimizations : 2. Introduction to Artificial Intelligence (AI) Accelerators](https://mandliya.github.io/posts/LLM_inference_2)
 - [More Blog Posts](https://mandliya.com)
 
 
