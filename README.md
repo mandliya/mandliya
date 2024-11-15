@@ -44,6 +44,7 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 
 - [Primer on Large Language Model (LLM) Inference Optimizations : 1. Background and Problem Formulation](https://mandliya.github.io/posts/LLM_inference_1/)
 - [Primer On Large Language Model (LLM) Inference Optimizations : 2. Introduction to Artificial Intelligence (AI) Accelerators](https://mandliya.github.io/posts/LLM_inference_2)
+- [Primer on Large Language Model (LLM) Inference Optimizations: 3. Model Architecture Optimizations](https://mandliya.github.io/posts/model_architecture_optimizations/)
 - [Scaling Laws in Large Language Models](https://mandliya.github.io/posts/scaling_laws/)
 - [More Blog Posts](https://mandliya.com)
 
