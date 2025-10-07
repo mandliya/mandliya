@@ -3,10 +3,11 @@
 # Hi there, I'm Ravi! 👋 
 
 ## 🧑‍💻 About Me
-AI Enthusiast | Machine Learning Engineer | Open Source Contributor
+AI Enthusiast | Machine Learning Engineer | Open Source Contributor |  Mentor to aspiring engineers
 
 - 💻 I am a Machine Learning Engineer at Discord.
 - 🔭 I’m currently working on building Recommendation Systems at Discord.
+- 🥇 I mentor anyone looking 
 - 🌱 I’m currently learning Large Language Model Inference Optimization and Advanced Recommendation System techniques.
 - 👯 I’m looking to collaborate on any ML research project (especially LLMs and RecSys)
 - 💬 Ask me about machine learning, deep learning, recommender systems and LLMs
