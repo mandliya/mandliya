@@ -10,7 +10,7 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor
 - 🌱 I’m currently learning Large Language Model Inference Optimization and Advanced Recommendation System techniques.
 - 👯 I’m looking to collaborate on any ML research project (especially LLMs and RecSys)
 - 💬 Ask me about machine learning, deep learning, recommender systems and LLMs
-- 📫 How to reach me: email me at `ravi.mandliya@github.com`
+- 📫 How to reach me: email me at `ravi.mandliya at github.com`
 
 
 
