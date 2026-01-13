@@ -42,7 +42,9 @@ AI Enthusiast | Machine Learning Engineer | Open Source Contributor |  Mentor to
 - [Blog](https://mandliya.com) - Sharing insights on ML, DL, RecSys, LLMs
 
 ## 🌱 Latest Blog Posts
-
+- [Introduction to Mechanistic Interpretability, Superposition and Sparse Autoencoders](https://mandliya.github.io/posts/introduction-to-mechanistic-interpretability-superposition-and-sparse-autoencoders/)
+- [Representation Engineering - I: Steering Language Models With Activation Engineering](https://mandliya.github.io/posts/paper-implementation-steering-language-models-with-activation-engineering/)
+- [Building GPT-2 From Scratch: Mechanistic Interpretability View](https://mandliya.github.io/posts/building-gpt-2-from-scratch-mechanistic-interpretability-view/)
 - [Primer on Large Language Model (LLM) Inference Optimizations : 1. Background and Problem Formulation](https://mandliya.github.io/posts/LLM_inference_1/)
 - [Primer On Large Language Model (LLM) Inference Optimizations : 2. Introduction to Artificial Intelligence (AI) Accelerators](https://mandliya.github.io/posts/LLM_inference_2)
 - [Primer on Large Language Model (LLM) Inference Optimizations: 3. Model Architecture Optimizations](https://mandliya.github.io/posts/model_architecture_optimizations/)
